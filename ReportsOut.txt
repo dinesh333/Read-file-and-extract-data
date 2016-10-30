@@ -1,0 +1,230 @@
+***************************************************
+Student ID number: 111111111
+Name: JOHNSON, JAMES L
+Tel: 41027632134
+Gender: Male
+Class Level: Freshman
+Registration of fall 2016: Yes
+        Unofficial Report Card
+Course     Credits     Grade
+COSC237        3         F
+MUSC372        3         C
+PHSC362        5         C
+CIOS100        2         W
+POSC320        2         F
+Credits for Fall 16: 13
+Spring 16 Semester GPA: 2.67
+Total credits: 47
+New cumulative GPA: 2.27
+***************************************************
+Student ID number: 112233445
+Name: ANDREWS, PETER J
+Tel: 4433543333
+Gender: Male
+Class Level: Senior
+Registration of fall 2016: No
+Spring 16 Semester GPA: 3.01
+Total credits: 101
+***************************************************
+Student ID number: 221212111
+Name: LUCKY, LUCY L
+Tel: 4102343434
+Gender: Female
+Class Level: Sophomore
+Registration of fall 2016: No
+Spring 16 Semester GPA: 2.66
+Total credits: 67
+***************************************************
+Student ID number: 222222222
+Name: NAKAMURA, TOKY O
+Tel: 8144443429
+Gender: Female
+Class Level: Sophomore
+Registration of fall 2016: Yes
+        Unofficial Report Card
+Course     Credits     Grade
+COSC301        3         C
+BIOL202        3         B
+SPED333        4         B
+SOCI212        3         C
+Credits for Fall 16: 13
+Spring 16 Semester GPA: 3.56
+Total credits: 68
+New cumulative GPA: 3.36
+***************************************************
+Student ID number: 254345433
+Name: MEDES, GLORIA A
+Tel: 2015569585
+Gender: Female
+Class Level: Sophomore
+Registration of fall 2016: No
+Spring 16 Semester GPA: 2.99
+Total credits: 67
+***************************************************
+Student ID number: 299992929
+Name: MARX, KARL Z
+Tel: 3014432873
+Gender: Male
+Class Level: Sophomore
+Registration of fall 2016: No
+Spring 16 Semester GPA: 1.99
+Total credits: 57
+***************************************************
+Student ID number: 310192393
+Name: NEWMANN, ALFRED X
+Tel: 4105434328
+Gender: Male
+Class Level: Junior
+Registration of fall 2016: No
+Spring 16 Semester GPA: 2.76
+Total credits: 80
+***************************************************
+Student ID number: 333333333
+Name: KRONECKER, LEO C
+Tel: 4437467484
+Gender: Male
+Class Level: Junior
+Registration of fall 2016: Yes
+        Unofficial Report Card
+Course     Credits     Grade
+FRAC101        1         A
+BIOL101        3         A
+PSYC204        4         F
+GEOG201        3         A
+LATN302        1         C
+Credits for Fall 16: 12
+Spring 16 Semester GPA: 3.87
+Total credits: 89
+New cumulative GPA: 3.69
+***************************************************
+Student ID number: 337121111
+Name: VIRUS, VERA T
+Tel: 4104539877
+Gender: Female
+Class Level: Sophomore
+Registration of fall 2016: No
+Spring 16 Semester GPA: 2.83
+Total credits: 98
+***************************************************
+Student ID number: 345678999
+Name: CUSTER, FELICIA C
+Tel: 3107335374
+Gender: Male
+Class Level: Junior
+Registration of fall 2016: Yes
+        Unofficial Report Card
+Course     Credits     Grade
+AMST292        3         A
+COSC236        3         D
+COSC490        1         W
+Credits for Fall 16: 6
+Spring 16 Semester GPA: 3.98
+Total credits: 69
+New cumulative GPA: 3.85
+***************************************************
+Student ID number: 367865456
+Name: REMBRANDT, ANTHONY F
+Tel: 2032393333
+Gender: Male
+Class Level: Junior
+Registration of fall 2016: No
+Spring 16 Semester GPA: 2.96
+Total credits: 86
+***************************************************
+Student ID number: 444556666
+Name: PORGY, BESS M
+Tel: 8148744857
+Gender: Female
+Class Level: Sophomore
+Registration of fall 2016: Yes
+        Unofficial Report Card
+Course     Credits     Grade
+HIST401        3         D
+LATN324        3         A
+DANC321        2         A
+ARTH321        2         C
+MATH328        3         B
+Credits for Fall 16: 13
+Spring 16 Semester GPA: 2.43
+Total credits: 123
+New cumulative GPA: 2.47
+***************************************************
+Student ID number: 483764673
+Name: AUGUSTA, ADA T
+Tel: 4107363563
+Gender: Female
+Class Level: Junior
+Registration of fall 2016: No
+Spring 16 Semester GPA: 3.03
+Total credits: 83
+***************************************************
+Student ID number: 555667777
+Name: CAESAR, JULIE S
+Tel: 4434876373
+Gender: Female
+Class Level: Junior
+Registration of fall 2016: Yes
+        Unofficial Report Card
+Course     Credits     Grade
+FINA201        3         D
+ECON343        3         F
+MATH200        3         C
+COSC237        3         F
+Credits for Fall 16: 12
+Spring 16 Semester GPA: 2.00
+Total credits: 91
+New cumulative GPA: 1.84
+***************************************************
+Student ID number: 666666666
+Name: MACDONALD, RONALD B
+Tel: 8148763873
+Gender: Male
+Class Level: Sophomore
+Registration of fall 2016: No
+Spring 16 Semester GPA: 3.98
+Total credits: 35
+***************************************************
+Student ID number: 711622833
+Name: WEERD, DEWEY L
+Tel: 4436745487
+Gender: Male
+Class Level: Sophomore
+Registration of fall 2016: No
+Spring 16 Semester GPA: 2.18
+Total credits: 43
+***************************************************
+Student ID number: 777665555
+Name: KIM, YANNGON X
+Tel: 2013333333
+Gender: Male
+Class Level: Senior
+Registration of fall 2016: No
+Spring 16 Semester GPA: 1.04
+Total credits: 97
+***************************************************
+Student ID number: 799444949
+Name: ROOSEVELT, ROSE Y
+Tel: 5787646465
+Gender: Female
+Class Level: Junior
+Registration of fall 2016: Yes
+        Unofficial Report Card
+Course     Credits     Grade
+BIOL202        4         C
+CHEM207        5         W
+COSC311        3         A
+COSC312        3         A
+COSC340        1         W
+Credits for Fall 16: 10
+Spring 16 Semester GPA: 2.88
+Total credits: 84
+New cumulative GPA: 2.92
+***************************************************
+Student ID number: 874874844
+Name: PASCAL, BLAZE R
+Tel: 4437464487
+Gender: Male
+Class Level: Sophomore
+Registration of fall 2016: No
+Spring 16 Semester GPA: 3.75
+Total credits: 64
